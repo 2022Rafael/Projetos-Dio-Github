@@ -1,0 +1,7 @@
+Comandos Git:
+
+clear: Limpar
+git add .
+git commit -m "Alteração nome das receitas";
+git push origin master
+git em minúsculo.
