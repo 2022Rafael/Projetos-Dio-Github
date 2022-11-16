@@ -1,2 +1,2 @@
-# Projetos-Dio-Github
-Desafios de projetos Git e GitHub
+# Pimeiro projeto de Git e GitHub
+Atividades de aprendizados Git/Github
